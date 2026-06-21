@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+*.local
+.DS_Store
+
+# 內含獨立 git repo(weihong931021/AI-Ready-Data),不納入本 repo
+AI-Ready-Data/
+
+# 本機除錯產物
+_probe.txt
+_payload.json
+probe_output/
